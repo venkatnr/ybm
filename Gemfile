@@ -6,7 +6,7 @@ gem 'rails', '3.2.13'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'therubyracer'
-gem 'execjs'
+#gem 'execjs'
 gem 'heroku'
 group :development, :test do
   gem 'sqlite3'
